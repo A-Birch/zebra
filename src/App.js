@@ -12,7 +12,7 @@ import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 class App extends React.Component {
   constructor() {
     super();
-    
+
     this.state = {
       currentUser: null
     }
@@ -24,7 +24,7 @@ class App extends React.Component {
     this.unsubscribeFromAuth = auth.onAuthStateChanged(async userAuth => {
       //this.setState({ currentUser: user });
       if (userAuth) {
-        const userRef = await createUserProfileDocument(userAuth); 
+        const userRef = await createUserProfileDocument(userAuth);
 
         userRef.onSnapshot(snapShot => {
           this.setState({
@@ -36,7 +36,7 @@ class App extends React.Component {
 
           console.log(this.state);
         });
-        
+
       } else {
         this.setState({ currentUser: userAuth });
       }
@@ -56,7 +56,7 @@ class App extends React.Component {
           <Route path='/shop' component={ShopPage} />
           <Route path='/signin' component={SignInAndSignUpPage} />
         </Switch>
-        
+
       </div>
     );
   }
