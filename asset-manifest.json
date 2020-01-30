@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zebra/static/css/main.45fad046.chunk.css",
+    "main.js": "/zebra/static/js/main.5d847011.chunk.js",
+    "main.js.map": "/zebra/static/js/main.5d847011.chunk.js.map",
+    "runtime-main.js": "/zebra/static/js/runtime-main.eec1c4a9.js",
+    "runtime-main.js.map": "/zebra/static/js/runtime-main.eec1c4a9.js.map",
+    "static/js/2.4ad4a7a8.chunk.js": "/zebra/static/js/2.4ad4a7a8.chunk.js",
+    "static/js/2.4ad4a7a8.chunk.js.map": "/zebra/static/js/2.4ad4a7a8.chunk.js.map",
+    "index.html": "/zebra/index.html",
+    "precache-manifest.3f9a2edae98fb4330e0fd919b0227676.js": "/zebra/precache-manifest.3f9a2edae98fb4330e0fd919b0227676.js",
+    "service-worker.js": "/zebra/service-worker.js",
+    "static/css/main.45fad046.chunk.css.map": "/zebra/static/css/main.45fad046.chunk.css.map",
+    "static/js/2.4ad4a7a8.chunk.js.LICENSE": "/zebra/static/js/2.4ad4a7a8.chunk.js.LICENSE",
+    "static/media/zebra-logo.c57294b6.svg": "/zebra/static/media/zebra-logo.c57294b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec1c4a9.js",
+    "static/js/2.4ad4a7a8.chunk.js",
+    "static/css/main.45fad046.chunk.css",
+    "static/js/main.5d847011.chunk.js"
+  ]
+}
