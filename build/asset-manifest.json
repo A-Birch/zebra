@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/zebra/static/css/main.e82614ec.chunk.css",
-    "main.js": "/zebra/static/js/main.564436d7.chunk.js",
-    "main.js.map": "/zebra/static/js/main.564436d7.chunk.js.map",
+    "main.css": "/zebra/static/css/main.45a8bc39.chunk.css",
+    "main.js": "/zebra/static/js/main.fa224f2b.chunk.js",
+    "main.js.map": "/zebra/static/js/main.fa224f2b.chunk.js.map",
     "runtime-main.js": "/zebra/static/js/runtime-main.eec1c4a9.js",
     "runtime-main.js.map": "/zebra/static/js/runtime-main.eec1c4a9.js.map",
-    "static/js/2.add86577.chunk.js": "/zebra/static/js/2.add86577.chunk.js",
-    "static/js/2.add86577.chunk.js.map": "/zebra/static/js/2.add86577.chunk.js.map",
+    "static/js/2.9098832f.chunk.js": "/zebra/static/js/2.9098832f.chunk.js",
+    "static/js/2.9098832f.chunk.js.map": "/zebra/static/js/2.9098832f.chunk.js.map",
     "index.html": "/zebra/index.html",
-    "precache-manifest.17504043f066a8ace412a8632121f6ab.js": "/zebra/precache-manifest.17504043f066a8ace412a8632121f6ab.js",
+    "precache-manifest.7d70620a51c5e69bb68e021c5072feda.js": "/zebra/precache-manifest.7d70620a51c5e69bb68e021c5072feda.js",
     "service-worker.js": "/zebra/service-worker.js",
-    "static/css/main.e82614ec.chunk.css.map": "/zebra/static/css/main.e82614ec.chunk.css.map",
-    "static/js/2.add86577.chunk.js.LICENSE": "/zebra/static/js/2.add86577.chunk.js.LICENSE",
+    "static/css/main.45a8bc39.chunk.css.map": "/zebra/static/css/main.45a8bc39.chunk.css.map",
+    "static/js/2.9098832f.chunk.js.LICENSE": "/zebra/static/js/2.9098832f.chunk.js.LICENSE",
     "static/media/shopping-bag.30f07071.svg": "/zebra/static/media/shopping-bag.30f07071.svg",
     "static/media/zebra-logo.c57294b6.svg": "/zebra/static/media/zebra-logo.c57294b6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eec1c4a9.js",
-    "static/js/2.add86577.chunk.js",
-    "static/css/main.e82614ec.chunk.css",
-    "static/js/main.564436d7.chunk.js"
+    "static/js/2.9098832f.chunk.js",
+    "static/css/main.45a8bc39.chunk.css",
+    "static/js/main.fa224f2b.chunk.js"
   ]
 }
